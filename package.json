@@ -1,0 +1,25 @@
+{
+  "name": "island",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "require-directory": "^2.1.1",
+    "validator": "^11.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "sequelize": "^6.3.5",
+    "mysql2": "^1.6.5",
+    "bcryptjs": "^2.4.3",
+    "basic-auth": "^2.0.1"
+  }
+}
